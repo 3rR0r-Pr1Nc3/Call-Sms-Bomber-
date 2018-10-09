@@ -2,7 +2,7 @@
 
 Programmer: Mizanur Rahman [3rR0r Pr1Nc3]
 
-Website: Suvadipkar.com
+Website: http://bd-cyber-mafia.blogspot.com/
 
 Facebook: https://facebook.com/error.prince3
 

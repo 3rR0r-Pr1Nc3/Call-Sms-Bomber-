@@ -4,7 +4,7 @@ Programmer: Mizanur Rahman [3rR0r Pr1Nc3]
 
 Website: Suvadipkar.com
 
-Facebook: http://facebook.com/error.prince3
+Facebook: https://facebook.com/error.prince3
 
 Rules:
 1. Dont use this tool to dos anyone.

@@ -1,16 +1,10 @@
 # Call-Sms-Bomber
 
-Programmer: Suvadip Kar
+Programmer: Mizanur Rahman [3rR0r Pr1Nc3]
 
 Website: Suvadipkar.com
 
-Facebook: http://facebook.com/suvadip.kar.96
-
-Twitter: https://twitter.com/KarSuvadip
-
-Bugcrowd: https://bugcrowd.com/Suvadipkar
-
-Video Link: https://youtu.be/VCkZzqTRmgs
+Facebook: http://facebook.com/error.prince3
 
 Rules:
 1. Dont use this tool to dos anyone.
